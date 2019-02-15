@@ -1,0 +1,9 @@
+TO-DO
+//animate hover navbar
+//card on left right center pane
+//background to reddit dark
+logo animate navbar
+//footer links t me
+//footer links to PEW
+pew animation ribbon below navbar
+background to headers
