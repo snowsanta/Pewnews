@@ -4,7 +4,7 @@ body{
   padding: 0;
   background-color: rgb(27, 40, 54);
   color: white;
-  font-family: verdana sans-serif;
+  font-family: 'Open Sans', sans-serif;
   }
 .topbanner img{
   width: 100%;
@@ -29,6 +29,7 @@ body{
   background-color: red;
 }
 .navbar{
+  font-family: 'Open Sans light 300', sans-serif;
   position: sticky;
   top:0;
   background-color: red;
